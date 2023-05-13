@@ -1,4 +1,4 @@
-# PHPStorm-hotkeys
+# PHPStorm-hotkeys. CutCode community
 
 ## Редактирование
 |Название|Win  |Mac  |
